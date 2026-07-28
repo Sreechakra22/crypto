@@ -138,15 +138,15 @@ streamlit run app.py
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](Assets/dashboard.png)
 
 ### Investment Planner
 
-![Planner](assets/planner.png)
+![Planner](Assets/investment.png)
 
-### Risk Analysis
+### Price Prediction
 
-![Risk](assets/risk.png)
+![Prediction](Assets/prediction.png)
 
 ---
 
