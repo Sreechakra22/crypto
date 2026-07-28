@@ -138,15 +138,15 @@ streamlit run app.py
 
 ### Dashboard
 
-![Dashboard](Assets/dashboard.png)
+![Dashboard](assets/dashboard.png)
 
 ### Investment Planner
 
-![Planner](Assets/investment.png)
+![Planner](assets/investment.png)
 
 ### Price Prediction
 
-![Prediction](Assets/prediction.png)
+![Prediction](assets/prediction.png)
 
 ---
 
